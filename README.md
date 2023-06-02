@@ -32,5 +32,5 @@ Hi, I'm David Marcial 🙌, a Full-Stack Developer with experience in Typescript
   <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josue-quero&theme=vue"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josue-quero&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josue-quero&count_private=true&show_icons=true&nclude_all_commits=true" />
 </a>
