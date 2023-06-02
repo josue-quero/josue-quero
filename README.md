@@ -26,13 +26,11 @@ Hi, I'm David Marcial 🙌, a Full-Stack Developer with experience in Typescript
 # 📊 GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-josue-quero.vercel.app/api/top-langs/?username=josue-quero&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats-git-master-josue-quero.vercel.app/api/top-langs/?username=josue-quero&size_weight=0&count_weight=1" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-master-josue-quero.vercel.app/api/wakatime?username=josue-quero" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josue-quero" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josue-quero&count_private=true" />
 </a>
-
-<p align="center"><img src="https://github-readme-stats-git-master-josue-quero.vercel.app/api?username=josue-quero&count_private=true"/> [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) [![David's wakatime stats]()]()
