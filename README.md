@@ -25,7 +25,7 @@ Hi, I'm David Marcial 🙌, a Full-Stack Developer with experience in Typescript
 
 # 📊 GitHub Stats:
 
-<p align="center"><img src="https://github-readme-stats-rust-chi-54.vercel.app/api?username=josue-quero"/>   <img src= "github-readme-stats-rust-chi-54.vercel.app/api/top-langs/?username=josue-quero&count-private=true"/></p>
+<p align="center"><img src="https://github-readme-stats-rust-chi-54.vercel.app/api?username=josue-quero"/>   <img src= "https://github-readme-stats-rust-chi-54.vercel.app/api/top-langs/?username=josue-quero&count-private=true"/></p>
  <p align="center">>
  <img src= "https://github-readme-stats-rust-chi-54.vercel.app/api/cards/profile-details?username=josue-quero&theme=vue"/>
  </p>
