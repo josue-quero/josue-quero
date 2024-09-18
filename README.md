@@ -11,7 +11,7 @@ Hi, I'm David Marcial 🙌, a Full-Stack Developer with experience in Typescript
 
 **More about me:**
 
-- 🔭 I’m currently and software engineer intern at @Softtek, working as a full-stack developer with React, Javascript, Typescript, Node.js and Firebase.
+- 🔭 I’m currently a software engineer at @C3AI, working as a full-stack developer on the production of AI powered applications with React, Javascript, Typescript.
 - 🌱 I’m currently learning Next.js and React Native.
 - 👯 Part of Developer Community @WeAreMagic.
 - 👀 I would like to learn about: Machine Learning applications
