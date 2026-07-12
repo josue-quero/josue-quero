@@ -1,36 +1,77 @@
-### Hello Everyone 👋 It's [David!](https://github.com/josue-quero)
+# Hello! I'm David Marcial 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marcial-1958691b8/)
-[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?logo=goodreads&logoColor=75420e)](https://www.goodreads.com/user/show/147939702-david-marcial)
+### Software Development Engineer II | Distributed Systems | Full-Stack & Cloud
 
-<br />
+I'm a Software Development Engineer with experience building **large-scale consumer-device infrastructure, enterprise AI applications, full-stack systems, and mobile applications**.
 
-Hi, I'm David Marcial 🙌, a Full-Stack Developer with experience in Typescript, Javascript, React, Node, CSS, and Non-SQL databases such as Firebase. With my passion for coding and problem-solving, I have gained proficiency in creating web applications that are not only efficient and scalable but also user-friendly. Apart from that I love getting involved in Game Development and Solving coding problems.❤
+Currently, I work as a **Software Development Engineer II at Amazon**, where I help develop and maintain the **Over-the-Air (OTA) update infrastructure powering millions of Amazon devices**, including Fire TV, Echo, and Kindle.
 
+Previously, I worked at **C3 AI**, building enterprise AI-powered demand forecasting applications, and at **Softtek**, developing full-stack applications and integrating machine-learning services. I also had the opportunity to intern at **Meta**, where I worked on Android development.
 
-**More about me:**
+I enjoy solving complex engineering problems, learning how large-scale systems work, and building software across the stack—from **C++ and distributed systems** to **TypeScript, React, and cloud applications**.
 
-- 🔭 I’m currently a software engineer at @C3AI, working as a full-stack developer on the production of AI powered applications with React, Javascript, Typescript.
-- 🌱 I’m currently learning Next.js and React Native.
-- 👯 Part of Developer Community @WeAreMagic.
-- 👀 I would like to learn about: Machine Learning applications
-- 🤔 I’m looking for help with: AIOPS Related Topics and Big Data Streaming
-- 💬 Ask me about: Web development, Python, and C++ 
-- 📫 How to reach me: Feel free to send me an email -> oshiahu@outlook.com
+## 🌐 Connect with Me
 
-# 💻 Tech Stack:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/david-marcial-1958691b8/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge\&logo=goodreads\&logoColor=75420e)](https://www.goodreads.com/user/show/147939702-david-marcial)
 
-<img src="https://img.shields.io/badge/React.js-087EA4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=306998" /> <img src="https://img.shields.io/badge/C++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=00758F" /> <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330" /> <img src="https://img.shields.io/badge/Java%20for%20android-000000?style=for-the-badge&logo=android&logoColor=32DE84" /> <img src="https://img.shields.io/badge/NEXT.JS-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" /> <img src="https://img.shields.io/badge/flutter-0553B1?style=for-the-badge&logo=flutter&logoColor=fff" /> <img src="https://img.shields.io/badge/MONGODB-3F3E42?style=for-the-badge&logo=mongodb&logoColor=4DB33D" /> <img src="https://img.shields.io/badge/Vite-3d1663?style=for-the-badge&logo=vite&logoColor=yellow" /> <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=html5&logoColor=white" />
+## 👨‍💻 More About Me
 
-# 📊 GitHub Stats:
+* 🔭 Currently working as a **Software Development Engineer II at Amazon**, contributing to large-scale OTA update systems for consumer devices.
+* 🤖 Previously worked at **C3 AI**, developing enterprise AI-powered applications with **TypeScript, JavaScript, React, and Redux**.
+* ⚙️ Interested in **Distributed Systems, Software Architecture, Cloud Computing, AI-powered applications, and System Design**.
+* 🎹 Built **NanoSynth**, a VST3 software synthesizer in C++ using digital signal processing techniques.
+* 📱 Experienced in **Web, Backend, Android, and Full-Stack Development**.
+* 🧠 I enjoy **problem-solving, learning new technologies, and understanding how complex systems work at scale**.
+* 💬 Ask me about **Software Engineering, Distributed Systems, React, TypeScript, Python, Java, and C++**.
+* 📫 Reach me at **[marcialquerodavid@outlook.com](mailto:marcialquerodavid@outlook.com)**.
+
+# 💻 Tech Stack
+
+### Languages
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+### Frontend & Backend
+
+<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Cloud & Data
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### Areas of Interest
+
+`Distributed Systems` · `System Design` · `Cloud Computing` · `Software Architecture` · `Machine Learning Integration` · `Full-Stack Development` · `Digital Signal Processing`
+
+# 🚀 Featured Project
+
+### 🎹 NanoSynth
+
+A **VST3 software synthesizer built in C++** that uses digital signal processing techniques to emulate classic electronic sounds.
+
+* Built with the **VST3 SDK and C++**
+* Implemented a **BLEP algorithm** for waveform generation
+* Worked with **COM-style interfaces and object-oriented design**
+* Developed a custom GUI using **VSTGUI**
+
+# 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-josue-quero.vercel.app/api/top-langs/?username=josue-quero&size_weight=0&count_weight=1" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josue-quero&theme=vue"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josue-quero&count_private=true&show_icons=true&nclude_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josue-quero&theme=vue" />
 </a>
